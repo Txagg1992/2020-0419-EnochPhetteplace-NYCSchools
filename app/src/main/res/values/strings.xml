@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="bacon_ipsum">Spicy jalapeno bacon ipsum dolor amet tongue short loin chuck cupim hamburger pork. Ball tip porchetta rump picanha brisket, ham andouille beef ribs leberkas tri-tip jowl drumstick tail burgdoggen salami.</string>
+    <string name="school_detail">School Details</string>
+    <string name="web_view">URL WebView</string>
+    <string name="sat_tests_taken">Total SAT Tests Taken: </string>
+    <string name="reading_average">Average Reading Score: </string>
+    <string name="writing_average">Average Writing Score: </string>
+    <string name="math_average">Average Math Score: </string>
+    <string name="no_sat_reported">This school has not reported any SAT scores for the given year</string>
+</resources>
